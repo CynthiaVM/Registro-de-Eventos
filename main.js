@@ -74,10 +74,8 @@ const borradoDeBase=()=>{
   localStorage.removeItem('paises');
   };			
             
-  
 	formulario.reset();
 	
   alert('¡Registro exitoso!');
-   
    
 });
